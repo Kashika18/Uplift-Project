@@ -11,3 +11,4 @@ The data acquired by https://aqicn.org/data-platform/register/ suggested a very 
 
 Hence, we took it upon ourselves to use ML and feed the data Pre Covid in order to predict the AQI levels if lockdown didn’t happen. Furthermore, we compared the prediction to the actual levels to indeed find a humongous change. 
 
+Contibuters: @Kashika18, @PragyaKhanna11
